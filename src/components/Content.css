@@ -1,0 +1,19 @@
+.cv-content {
+    display: flex;
+    justify-content: center;
+}
+.sidebar {
+    background-color:#2b78ab;
+    width: 40%;
+    padding: 2%;
+    color: white;
+}
+.content {
+    width: 60%;
+    padding: 20px;;
+}
+.content h2 {
+    background-color: #e0effa;
+    padding: 20px;
+    color: black;
+}
